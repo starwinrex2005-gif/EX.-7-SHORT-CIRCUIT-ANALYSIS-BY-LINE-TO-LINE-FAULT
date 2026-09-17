@@ -28,6 +28,10 @@ neglected.
 4. Find fault MVA for the specified bus and print the calculated value. 
 5. Stop the execution.
 # CIRCUIT DIAGRAM: 
+<img width="566" height="1197" alt="image" src="https://github.com/user-attachments/assets/b9532b31-886b-43c3-ac43-b615ba481572" />
+
 # OUTPUT:
+<img width="1206" height="497" alt="image" src="https://github.com/user-attachments/assets/d5692c9b-8e66-4782-849c-23998b2af0cc" />
+
 # RESULT:
 Thus short circuit analysis by line to line fault is performed in etap software and the output is verified.
